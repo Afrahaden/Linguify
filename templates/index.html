@@ -12,15 +12,20 @@
 
 <body>
     <div class="container">
+        <div class="logo-container">
+            <span class="logo-text">Linguify</span>
+        </div>
         <h1>Text Translation Service</h1>
-        <div> <h6> Enter the text you wish to translate, choose the language, and click the Translate button </h6> </div>
+        <div class="info-text">
+            <h6>Enter the text you wish to translate, choose the language, and click the Translate button</h6>
+        </div>
         <div>
             <form method="POST">
                 <div class="form-group">
                     <textarea name="text" cols="20" rows="10" class="form-control"></textarea>
                 </div>
                 <div class="form-group">
-                    <label for="language">Select Language:</label>
+                    <label for="language"><h5>Select Language</h5></label>
                     <select name="language" class="form-control">
                         <option value="en">English</option>
                         <option value="ar">Arabic</option>
