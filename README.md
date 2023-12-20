@@ -39,6 +39,15 @@ LOCATION=your-azure-location
 pip install -r requirements.txt
 ```
 3. **Usage:**
+- Run the Flask application:
 ```bash
    flask run
 ```
+- Open your web browser and go to http://localhost:5000.
+- Enter the text, choose the target language, and click the "Translate" button.
+- View the translation result and use the "Copy Text" button to copy the translated text to the clipboard.
+
+## Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-Afrahaden-blue)](https://github.com/Afrahaden)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afrah_Aden_Abdi-blue)](https://www.linkedin.com/in/afrah-aden-abdi-7993b01b7/)
+
