@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/dedb8291-23c6-4bf0-aeb3-024eacc3325f/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/linguify-text-translation",
+    "appService.deploySubpath": "."
+}
